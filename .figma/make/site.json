@@ -1,0 +1,10 @@
+{
+  "description": "Enables clients to book beauty salon services online with real-time availability while providing staff a secure admin panel to manage appointments and clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
